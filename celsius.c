@@ -1,3 +1,6 @@
+
+// 2021 dhakne balaji computer engg All Rights Reserved
+
 #include<stdio.h>
 
 int main()
